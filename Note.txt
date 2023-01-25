@@ -1,0 +1,8 @@
+DAY 1: JAVA FUNDAMENTAL & OOP
+
+-- Secara Umum, Aplikasi java minimal harus mempunya main (public static void main)
+-- JDK tidak ada bedanya darimana kita mendownload
+-- Java adalah pure OOP
+-- Satu file mempunyai satu class.
+-- Di java tidak ada optional parameter.
+-- Java itu autosave.
