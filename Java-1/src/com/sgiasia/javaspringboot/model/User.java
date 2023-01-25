@@ -5,18 +5,6 @@ public class User {
     private String password;
     private String userLevel;
 
-    private int age;
-
-    /** Constructor */
-//    public User (String name) { //Constructor
-//        this.userName = name;
-//    }
-//    public User (String name, int age){
-//        this.userName = name;
-//        this.age = age;
-//    }
-
-    /**Getter dan Setter */
     public String getUserName() {
         return userName;
     }
@@ -25,20 +13,19 @@ public class User {
         this.userName = userName;
     }
 
-    public int getAge() {
-        return age;
+    public String getPassword() {
+        return password;
     }
 
-    public void setAge(int age) {
-        this.age = age;
+    public void setPassword(String password) {
+        this.password = password;
     }
 
-    /** Method */
-    public void cetakNama(){
-        System.out.println(userName);
-    }
-    public void cetakUmur(){
-        System.out.println((age));
+    public String getUserLevel() {
+        return userLevel;
     }
 
+    public void setUserLevel(String userLevel) {
+        this.userLevel = userLevel;
+    }
 }
