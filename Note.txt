@@ -6,3 +6,10 @@ DAY 1: JAVA FUNDAMENTAL & OOP
 -- Satu file mempunyai satu class.
 -- Di java tidak ada optional parameter.
 -- Java itu autosave.
+-- Getter setter berguna pada modifier yang private saja.
+
+
+DAY 2: LANJUTAN
+-- Abstract bertujuan untuk menyalurkan ide yg belum pasti apa yg mesti dilakukan
+-- Interface bertujuan untuk menyeragamkan class
+
